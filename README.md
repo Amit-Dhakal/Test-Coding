@@ -23,7 +23,8 @@ Tools & Libraries used:
 
 Project Setup :
 - pull the project from remote repository using 
-  git clone <url> command
+  git clone https://github.com/Amit-Dhakal/Test-Coding.git  command
+  
 - Run PowerSystemProjectApplication.Java class file
 - For test cases Run PowerSystemRepoTest.Java class
 
